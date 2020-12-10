@@ -9467,6 +9467,7 @@ body {
 }
 
 .imagevw {
-  max-width: 95vw;
+  min-width: 95vw;
+  max-width: 100vw;
   margin-bottom: 10rem;
 }
